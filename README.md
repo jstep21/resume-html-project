@@ -1,2 +1,2 @@
-# resume-html-project
+# current resume in html
 
